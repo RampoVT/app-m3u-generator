@@ -1,10 +1,9 @@
 
-1/14/26
+2/25/26
 
 ```
-UPDATE: The Pluto 403 error fixed.
-UPDATE: Plex: 429 error fixed.
-UPDATE: Tubi headder fixed.
+ISSUE: (Pluto) Looking for a fix. It is down.
+ISSUE: (Stirr) Gone and might not be back.
 ```
 
 
